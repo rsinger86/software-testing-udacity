@@ -26,4 +26,3 @@ def test():
     q.enqueue(1)
     q.empty()
     assert q.empty() is False
-    
